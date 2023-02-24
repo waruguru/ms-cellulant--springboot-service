@@ -1,6 +1,5 @@
 package com.cellulant.microservice.mscellulantconsumeapisservice.controller;
 import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.BillingDetails;
-import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.TestPojo;
 import com.cellulant.microservice.mscellulantconsumeapisservice.service.TestService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -12,7 +11,6 @@ import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.http.ResponseEntity;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 

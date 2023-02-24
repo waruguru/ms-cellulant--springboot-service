@@ -1,4 +1,4 @@
-package com.cellulant.microservice.mscellulantconsumeapisservice.datalayer;
+package com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.requestdto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

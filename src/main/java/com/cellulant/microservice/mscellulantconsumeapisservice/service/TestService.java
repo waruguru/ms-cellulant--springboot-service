@@ -2,8 +2,7 @@ package com.cellulant.microservice.mscellulantconsumeapisservice.service;
 
 
 import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.BillingDetails;
-import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.PostApiRequestDto;
-import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.TestPojo;
+import com.cellulant.microservice.mscellulantconsumeapisservice.datalayer.requestdto.PostApiRequestDto;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpMethod;
